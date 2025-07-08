@@ -9,7 +9,7 @@
 
 <div class="container">
   <h1 class="mb-4">💹 Binance Futures Trading Bot (Testnet)</h1>
-
+  <h1>Resume: <a href="https://drive.google.com/file/d/1crAIpjemM6ipPbqYd4xYrGyBhlW2PLjg/view?usp=sharing" target="_blank"><u>Click Here</u></a></h1>
   <p>
     A command-line and web-based trading bot that places <strong>Market</strong>, <strong>Limit</strong>, and
     <strong>Stop-Limit</strong> orders on the <strong>Binance USDT-M Futures Testnet</strong>.
